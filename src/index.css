@@ -1,0 +1,70 @@
+
+#body {
+  block-size: 1000px;
+  background: linear-gradient(to bottom right, yellow, red);
+  font-family: Arial
+  
+}
+#input {
+  font-size: 40px;
+  border-style: solid;
+  border-color: black;
+  width: 400px;
+  border-width: 0px 0px 3px 0px 
+}
+#title {
+  background: linear-gradient(to top left, yellow, red);
+  font-size: 40px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0px 0px 3px 0px 
+}
+#viewport {
+  position: relative;
+  left: 200px;
+  top: 100px;
+  width: 400px;
+  background-color:slateblue;
+    border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  border-radius: 2%
+  
+}
+/* #screen {
+  
+  width: 400px;
+  color: antiquewhite;
+  font-size: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0px 3px 0px 0px
+} */
+
+#buttons{
+  background-color: slateblue;
+  width: 400px;
+  font-size: 50px;
+  color: white;
+  border-color: black
+}
+#calcBtn {
+  width: 100px;
+  height: 75px;
+  font-size: 50px
+}
+#clr {
+  inline-size: 200px;
+  font-size: 75px;
+}
+#equals{
+  inline-size: 200px;
+  font-size: 75px;
+}
+#calcScreen {
+  width: 400px;
+  height: 75px
+}
+
+#output{
+}
